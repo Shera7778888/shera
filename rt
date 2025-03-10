@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Фон</title>
+    <style>
+        body {
+            background: url('./tr.jpeg') no-repeat center center fixed;
+            background-size: 50% auto;
+        }
+    </style>
+</head>
+<body>
+</body>
+</html>
